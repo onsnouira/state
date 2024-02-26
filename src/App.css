@@ -1,0 +1,31 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+  
+}
+body{
+  background-color: rgb(171, 219, 213);
+}
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.container img {
+  width: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.container p {
+  font-size: 18px;
+}
